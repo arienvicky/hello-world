@@ -1,2 +1,2 @@
 # hello-world
-demo
+This is the demo of GIT
